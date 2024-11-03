@@ -17,9 +17,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Table of Contents
 
-<img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
-
-Use the "Table of Contents" menu on the top-right corner to explore the list.
+Use the "Table of Contents" menu on the top-right corner of the README to explore the list.
 
 ## Resources
 
