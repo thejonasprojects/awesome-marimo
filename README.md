@@ -55,11 +55,17 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - A mkdocs plugin for reactive and interactive docs with marimo.
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
 - [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
+- [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) — Use marimo and quarto together.
 
 ## Projects Using marimo
 
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) — An AI-generated wiki of the marimo codebase, with chat support
 - [marimo Guru](https://gurubase.io/g/marimo) — Chat with the marimo docs and codebase.
+
+## Education
+
+- [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) — A course on convex optimization taught at NASA, with engineering examples
+— [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) — An econometrics course with marimo notebook materials.
 
 ## Talks
 
