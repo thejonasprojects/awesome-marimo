@@ -23,6 +23,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Resources
 
+_Have a project or resource you'd like to add? Submit a [pull request](https://github.com/marimo-team/awesome-marimo/pulls)!_ 
+
 ### Official Resources
 
 - [Documentation](https://docs.marimo.io/)
@@ -34,17 +36,19 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ### Tutorials
 
-_Add your tutorial here!_
+- [Calmcode](https://calmcode.io/course/marimo/introduction) — A collection of video tutorials by [Vincent Warmerdam](https://x.com/fishnets88?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [marimo's intro tutorial](https://marimo.app/?slug=c7h6pz) — The first tutorial that comes packaged with marimo.
 
 ## Get Started
 
 - [Getting Started docs](https://docs.marimo.io/getting_started/index.html) - Getting Started with marimo.
-- [Examples](https://github.com/marimo-team/marimo/tree/main/examples) - Examples of marimo apps.
+- [Examples](https://github.com/marimo-team/marimo/tree/main/examples) - Examples of marimo notebooks, curated by the marimo team.
+- [Gallery](https://marimo.io/gallery) — Community contributed examples.
 
-### Templates
+### Deployment Templates
 
-- [HuggingFace Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo apps to HuggingFace Spaces.
-- [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying marimo editor to Railway.
+- [HuggingFace Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to HuggingFace Spaces.
+- [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying the marimo editor to Railway.
 
 ## Libraries
 
@@ -54,8 +58,19 @@ _Add your tutorial here!_
 
 ## Projects Using marimo
 
-_Add your project here!_
+- [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) — An AI-generated wiki of the marimo codebase, with chat support
+- [marimo Guru](https://gurubase.io/g/marimo) — Chat with the marimo docs and codebase.
 
 ## Talks
 
 - [marimo: an open-source reactive notebook for Python](https://www.youtube.com/watch?v=9R2cQygaoxQ) - North Bay Python, 2024.
+
+## Podcasts
+
+- [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) — Sample Spaces, 2024.
+
+## Blogs
+
+- [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) — Behind-the-scenes development blog about marimo's design principles.
+- [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) — How marimo added support for WASM via Pyodide
+- [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) — How marimo enables reproducibility of notebooks, down to the packages
