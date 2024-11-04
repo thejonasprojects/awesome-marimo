@@ -30,12 +30,15 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Discord](https://marimo.io/discord)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
 - [WebAssembly Playground](https://marimo.app)
-- [Awesome marimo](https://githubg.com/marimo-team/awesome-marimo)
+- [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
+- [Spotlights](https://github.com/marimo-team/spotlights/)
+- [VSCode Plugin](https://github.com/marimo-team/vscode-marimo)
 
 ### Tutorials
 
 - [Calmcode](https://calmcode.io/course/marimo/introduction) - A collection of video tutorials by [Vincent Warmerdam](https://x.com/fishnets88).
 - [marimo's intro tutorial](https://marimo.app/?slug=c7h6pz) - The first tutorial that comes packaged with marimo.
+- [marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) - A collection of community-driven tutorials spanning multiple disciplines.
 
 ## Get Started
 
