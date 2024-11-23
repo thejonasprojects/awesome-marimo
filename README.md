@@ -59,6 +59,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) — DSL for HTML that targets marimo.
+- [wigglystuff](https://github.com/koaning/wigglystuff) — Creative widgets for explorable explanations
 
 ## Projects Using marimo
 
