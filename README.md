@@ -57,6 +57,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
 - [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
+- [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) — DSL for HTML that targets marimo.
 - [wigglystuff](https://github.com/koaning/wigglystuff) — Creative widgets for explorable explanations
