@@ -1,1 +1,0 @@
-- [ ] I have read and followed the [Contributing Guide](https://github.com/marimo-team/awesome-marimo/blob/main/.github/contributing.md)
